@@ -5,7 +5,3 @@ Hemoglobin-alpha	human 	LYSC_HUMAN	P69905
 Hemoglobin-beta	human 	LYSC_HUMAN	P68871
 PFKM	human 	PFKAM_HUMAN	P08327
 Pfkm	mouse	PFKAM_MOUSE	P47857
-
-This is clearly a mistake!
-
-This is clearly another mistake!
