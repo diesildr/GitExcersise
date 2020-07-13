@@ -1,4 +1,7 @@
-Lysozyme        Chicken         LYSC_CHICK      P00698
-Lysozyme        human   LYSC_HUMAN      P61626
-Hemoglobin-alpha        human   LYSC_HUMAN      P69905
-Hemoglobin-beta human   LYSC_HUMAN      P68871
+
+Lysozyme	Chicken 	LYSC_CHICK	P00698
+Lysozyme	human 	LYSC_HUMAN	P61626
+Hemoglobin-alpha	human 	LYSC_HUMAN	P69905
+Hemoglobin-beta	human 	LYSC_HUMAN	P68871
+PFKM	human 	PFKAM_HUMAN	P08327
+Pfkm	mouse	PFKAM_MOUSE	P47857
